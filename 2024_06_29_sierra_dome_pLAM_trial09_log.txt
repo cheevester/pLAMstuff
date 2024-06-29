@@ -1,0 +1,321 @@
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] motion_startup: Motion 4.5.1 Started
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] motion_startup: Using default log type (ALL)
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] motion_startup: Using log type (ALL) log level (INF)
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] conf_output_parms: Writing configuration parameters from all files (1):
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] Thread 0 - Config file: /home/pLAM/Downloads/diel-light-pi-master/configs/motion_best.conf
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] daemon                    off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] setup_mode                off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] pid_file                  
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] log_file                  2024_06_29_sierra_dome_pLAM_trial09_log.txt
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] log_level                 7
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] log_type                  ALL
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] quiet                     on
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] native_language           on
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] watchdog_tmo              30
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] watchdog_kill             10
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] camera_name               
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] camera_id                 0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] target_dir                
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] video_device              /dev/video0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] video_params              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] auto_brightness           0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] tuner_device              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] roundrobin_frames         1
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] roundrobin_skip           1
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] roundrobin_switchfilter   off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] netcam_url                
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] netcam_params             
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] netcam_high_url           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] netcam_high_params        
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] netcam_userpass           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] mmalcam_name              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] mmalcam_params            
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] width                     1280
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] height                    960
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] framerate                 15
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] minimum_frame_time        0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] rotate                    0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] flip_axis                 none
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] locate_motion_mode        off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] locate_motion_style       box
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] text_left                 CAMERA1
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] text_right                %Y-%m-%d\n%T-%q
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] text_changes              on
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] text_scale                1
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] text_event                %Y%m%d%H%M%S
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] emulate_motion            off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] pause                     off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] threshold                 200
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] threshold_maximum         0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] threshold_tune            off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] noise_level               32
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] noise_tune                on
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] despeckle_filter          EedDl
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] area_detect               
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] mask_file                 
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] mask_privacy              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] smart_mask_speed          0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] lightswitch_percent       0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] lightswitch_frames        5
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] minimum_motion_frames     1
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] event_gap                 2
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] pre_capture               3
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] post_capture              0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_event_start            
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_event_end              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_picture_save           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_area_detected          
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_motion_detected        
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_movie_start            
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_movie_end              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_camera_lost            
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] on_camera_found           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] picture_output            best
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] picture_output_motion     off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] picture_type              jpeg
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] picture_quality           100
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] picture_exif              
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] picture_filename          %Y%m%d%H%M%S-%q-%D
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] snapshot_interval         0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] snapshot_filename         %v-%Y%m%d%H%M%S-snapshot
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_output              off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_output_motion       off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_max_time            60
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_bps                 400000
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_quality             80
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_codec               mkv
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_duplicate_frames    off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_passthrough         off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_filename            %t-%v-%Y%m%d%H%M%S
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_extpipe_use         off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] movie_extpipe             
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] timelapse_interval        0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] timelapse_mode            daily
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] timelapse_fps             30
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] timelapse_codec           mpg
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] timelapse_filename        %Y%m%d-timelapse
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] video_pipe                
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] video_pipe_motion         
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_port           8080
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_ipv6           off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_localhost      off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_parms          0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_interface      0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_auth_method    0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_authentication 
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_tls            off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_cert           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_key            
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_header_params  
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_lock_minutes   5
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_lock_attempts  5
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] webcontrol_lock_max_ips   25
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_port               8081
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_localhost          off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_auth_method        0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_authentication     
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_tls                off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_header_params      
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_preview_scale      25
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_preview_newline    off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_preview_method     0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_quality            50
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_grey               off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_motion             off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_maxrate            1
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] stream_limit              0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_type             
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_dbname           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_host             localhost
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_port             0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_user             
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_password         
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] database_busy_timeout     0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_log_picture           off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_log_snapshot          off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_log_movie             off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_log_timelapse         off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_query_start           
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_query_stop            
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] sql_query                 
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_type                0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_auto                off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_port                
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_motorx              0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_motorx_reverse      off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_motory              0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_motory_reverse      off
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_maxx                0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_minx                0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_maxy                0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_miny                0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_homex               128
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_homey               128
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_iomojo_id           0
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_step_angle_x        10
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_step_angle_y        10
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_move_wait           10
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_speed               255
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_stepsize            40
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] track_generic_move        
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] camera                    
+[0:motion] [INF] [ALL] [Jun 29 16:29:50] camera_dir                
+[0:motion] [NTC] [STR] [Jun 29 16:29:50] webu_start_strm: Starting all camera streams on port 8081
+[0:motion] [NTC] [STR] [Jun 29 16:29:50] webu_strm_ntc: Started camera 0 stream on port 8081
+[0:motion] [NTC] [STR] [Jun 29 16:29:50] webu_start_ctrl: Starting webcontrol on port 8080
+[0:motion] [NTC] [STR] [Jun 29 16:29:50] webu_start_ctrl: Started webcontrol on port 8080
+[0:motion] [NTC] [ENC] [Jun 29 16:29:50] ffmpeg_global_init: ffmpeg libavcodec version 59.37.100 libavformat version 59.27.100
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] translate_init: Language: English
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] motion_start_thread: Camera ID: 0 is from /home/pLAM/Downloads/diel-light-pi-master/configs/motion_best.conf
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] motion_start_thread: Camera ID: 0 Camera Name: (null) Device: /dev/video0
+[0:motion] [NTC] [ALL] [Jun 29 16:29:50] main: Waiting for threads to finish, pid: 2366
+[1:ml1] [NTC] [ALL] [Jun 29 16:29:50] motion_init: Camera 0 started: motion detection Enabled
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] vid_start: Opening V4L2 device
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_open: Using videodevice /dev/video0 and input -1
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_capability: - VIDEO_CAPTURE
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_capability: - READWRITE
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_capability: - STREAMING
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_input_select: Name = "unicam-image"- CAMERA
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_norm_select: Device does not support specifying PAL/NTSC norm
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_try: Unable to use YU12 (1280x960)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: Configuration palette index 17 (YU12) for 1280x960 doesn't work.
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: Supported palettes:
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (0) YUYV (YUYV 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (1) UYVY (UYVY 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (2) YVYU (YVYU 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (3) VYUY (VYUY 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (4) RGBP (16-bit RGB 5-6-5)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (5) RGBR (16-bit RGB 5-6-5 BE)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (6) RGBO (16-bit A/XRGB 1-5-5-5)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (7) RGBQ (16-bit A/XRGB 1-5-5-5 BE)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (8) RGB3 (24-bit RGB 8-8-8)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (9) BGR3 (24-bit BGR 8-8-8)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (10) RGB4 (32-bit A/XRGB 8-8-8-8)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (11) BA81 (8-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (12) GBRG (8-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (13) GRBG (8-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (14) RGGB (8-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (15) pBAA (10-bit Bayer BGBG/GRGR Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (16) BG10 (10-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (17) pGAA (10-bit Bayer GBGB/RGRG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (18) GB10 (10-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (19) pgAA (10-bit Bayer GRGR/BGBG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (20) BA10 (10-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (21) pRAA (10-bit Bayer RGRG/GBGB Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (22) RG10 (10-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (23) pBCC (12-bit Bayer BGBG/GRGR Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (24) BG12 (12-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (25) pGCC (12-bit Bayer GBGB/RGRG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (26) GB12 (12-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (27) pgCC (12-bit Bayer GRGR/BGBG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (28) BA12 (12-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (29) pRCC (12-bit Bayer RGRG/GBGB Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (30) RG12 (12-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (31) pBEE (14-bit Bayer BGBG/GRGR Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (32) BG14 (14-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (33) pGEE (14-bit Bayer GBGB/RGRG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (34) GB14 (14-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (35) pgEE (14-bit Bayer GRGR/BGBG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (36) GR14 (14-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (37) pREE (14-bit Bayer RGRG/GBGB Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (38) RG14 (14-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (39) BYR2 (16-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (40) GB16 (16-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (41) GR16 (16-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (42) RG16 (16-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (43) GREY (8-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (44) Y10P (10-bit Greyscale (MIPI Packed))
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (45) Y10  (10-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (46) Y12P (12-bit Greyscale (MIPI Packed))
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (47) Y12  (12-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (48) Y14P (14-bit Greyscale (MIPI Packed))
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (49) Y14  (14-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (50) Y16  (16-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_try: Testing palette Y12  (1280x960)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_set: Using palette Y12  (1280x960)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: Selected palette Y12 
+[1:ml1] [INF] [VID] [Jun 29 16:29:50] v4l2_fps_set: Trying to set fps to 15
+[1:ml1] [ERR] [VID] [Jun 29 16:29:50] v4l2_fps_set: Error setting fps. Return code -1
+[1:ml1] [INF] [VID] [Jun 29 16:29:50] v4l2_fps_set: Device set fps to 15
+[1:ml1] [INF] [VID] [Jun 29 16:29:50] v4l2_ctrls_list: No Controls found for device
+[1:ml1] [ERR] [VID] [Jun 29 16:29:50] v4l2_mmap_set: Error starting stream. VIDIOC_STREAMON: Invalid argument
+[1:ml1] [ERR] [VID] [Jun 29 16:29:50] vid_start: V4L2 device failed to open
+[1:ml1] [WRN] [ALL] [Jun 29 16:29:50] motion_init: Could not fetch initial image from camera 
+[1:ml1] [WRN] [ALL] [Jun 29 16:29:50] motion_init: Motion continues using width and height from config file(s)
+[1:ml1] [NTC] [ALL] [Jun 29 16:29:50] image_ring_resize: Resizing pre_capture buffer to 1 items
+[1:ml1] [NTC] [ALL] [Jun 29 16:29:50] image_ring_resize: Resizing pre_capture buffer to 4 items
+[1:ml1] [WRN] [ALL] [Jun 29 16:29:50] mlp_retry: Retrying until successful connection with camera
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] vid_start: Opening V4L2 device
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_open: Using videodevice /dev/video0 and input -1
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_capability: - VIDEO_CAPTURE
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_capability: - READWRITE
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_device_capability: - STREAMING
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_input_select: Name = "unicam-image"- CAMERA
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_norm_select: Device does not support specifying PAL/NTSC norm
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_try: Unable to use YU12 (1280x960)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: Configuration palette index 17 (YU12) for 1280x960 doesn't work.
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: Supported palettes:
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (0) YUYV (YUYV 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (1) UYVY (UYVY 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (2) YVYU (YVYU 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (3) VYUY (VYUY 4:2:2)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (4) RGBP (16-bit RGB 5-6-5)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (5) RGBR (16-bit RGB 5-6-5 BE)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (6) RGBO (16-bit A/XRGB 1-5-5-5)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (7) RGBQ (16-bit A/XRGB 1-5-5-5 BE)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (8) RGB3 (24-bit RGB 8-8-8)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (9) BGR3 (24-bit BGR 8-8-8)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (10) RGB4 (32-bit A/XRGB 8-8-8-8)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (11) BA81 (8-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (12) GBRG (8-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (13) GRBG (8-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (14) RGGB (8-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (15) pBAA (10-bit Bayer BGBG/GRGR Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (16) BG10 (10-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (17) pGAA (10-bit Bayer GBGB/RGRG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (18) GB10 (10-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (19) pgAA (10-bit Bayer GRGR/BGBG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (20) BA10 (10-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (21) pRAA (10-bit Bayer RGRG/GBGB Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (22) RG10 (10-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (23) pBCC (12-bit Bayer BGBG/GRGR Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (24) BG12 (12-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (25) pGCC (12-bit Bayer GBGB/RGRG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (26) GB12 (12-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (27) pgCC (12-bit Bayer GRGR/BGBG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (28) BA12 (12-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (29) pRCC (12-bit Bayer RGRG/GBGB Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (30) RG12 (12-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (31) pBEE (14-bit Bayer BGBG/GRGR Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (32) BG14 (14-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (33) pGEE (14-bit Bayer GBGB/RGRG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (34) GB14 (14-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (35) pgEE (14-bit Bayer GRGR/BGBG Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (36) GR14 (14-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (37) pREE (14-bit Bayer RGRG/GBGB Packed)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (38) RG14 (14-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (39) BYR2 (16-bit Bayer BGBG/GRGR)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (40) GB16 (16-bit Bayer GBGB/RGRG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (41) GR16 (16-bit Bayer GRGR/BGBG)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (42) RG16 (16-bit Bayer RGRG/GBGB)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (43) GREY (8-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (44) Y10P (10-bit Greyscale (MIPI Packed))
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (45) Y10  (10-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (46) Y12P (12-bit Greyscale (MIPI Packed))
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (47) Y12  (12-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (48) Y14P (14-bit Greyscale (MIPI Packed))
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (49) Y14  (14-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: (50) Y16  (16-bit Greyscale)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_try: Testing palette Y12  (1280x960)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_set: Using palette Y12  (1280x960)
+[1:ml1] [NTC] [VID] [Jun 29 16:29:50] v4l2_pixfmt_select: Selected palette Y12 
+[1:ml1] [INF] [VID] [Jun 29 16:29:50] v4l2_fps_set: Trying to set fps to 15
+[1:ml1] [ERR] [VID] [Jun 29 16:29:50] v4l2_fps_set: Error setting fps. Return code -1
+[1:ml1] [INF] [VID] [Jun 29 16:29:50] v4l2_fps_set: Device set fps to 15
+[1:ml1] [INF] [VID] [Jun 29 16:29:50] v4l2_ctrls_list: No Controls found for device
+[1:ml1] [ERR] [VID] [Jun 29 16:29:50] v4l2_mmap_set: Error starting stream. VIDIOC_STREAMON: Invalid argument
+[1:ml1] [ERR] [VID] [Jun 29 16:29:50] vid_start: V4L2 device failed to open
+[1:ml1] [NTC] [ALL] [Jun 29 16:29:59] motion_loop: Thread exiting
+[0:motion] [NTC] [ALL] [Jun 29 16:30:00] main: Threads finished
+[0:motion] [NTC] [ALL] [Jun 29 16:30:00] main: Motion terminating
+[0:motion] [NTC] [ALL] [Jun 29 16:30:00] motion_remove_pid: Closing logfile (2024_06_29_sierra_dome_pLAM_trial09_log.txt).
